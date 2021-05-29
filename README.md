@@ -11,7 +11,7 @@ const aboutMe = {
       backend: ["NodeJS", "Flask", "Django"]
       databases: ["MySQL", "MongoDB"],
    },
-   currentOccupation: ["Open for internships"],
+   currentOccupation: ["Open for internship opportunities"],
 };
 ```
 
