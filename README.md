@@ -12,7 +12,6 @@ const aboutMe = {
       databases: ["MySQL", "MongoDB"],
    },
    currentOccupation: ["Open for internships"],
-   
 };
 ```
 
