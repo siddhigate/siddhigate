@@ -4,7 +4,7 @@
 ```javascript
 const aboutMe = {
    name: "Siddhi Gate",
-   bio: ["Solving problems trhough code"],
+   bio: ["Solving problems through code"],
    code: [Javascript, Java, Python, C++],
    technologies: {
       frontEnd: ["ReactJS", "Flutter"],
