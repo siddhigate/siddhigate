@@ -8,7 +8,7 @@ const aboutMe = {
    code: [Java, Python,Javascript,  C++],
    technologies: {
       frontEnd: ["Flutter"],
-      backend: ["NodeJS", "Flask"]
+      backend: ["NodeJS", "Flask"],
       databases: ["MySQL", "MongoDB"],
    },
    currentOccupation: ["Open for internship opportunities"],
