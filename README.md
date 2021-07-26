@@ -5,9 +5,9 @@
 const aboutMe = {
    name: "Siddhi Gate",
    bio: ["Solving problems through code"],
-   code: [Java, Python,Javascript,  C++],
+   code: ["Javascript", "Java", "Python","C++"],
    technologies: {
-      frontEnd: ["Flutter"],
+      frontEnd: ["ReactJS", "Flutter"],
       backend: ["NodeJS", "Flask"],
       databases: ["MySQL", "MongoDB"],
    },
