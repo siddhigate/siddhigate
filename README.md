@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Eye Care App](https://github.com/siddhigate/eye-care)
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [https://projects.siddhigate.me/](https://projects.siddhigate.me/)
 
@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/siddhigate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhigate" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhigate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhigate" height="30" width="40" /></a>
-<a href="https://codesandbox.com/siddhigate_2750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="siddhigate_2750" height="30" width="40" /></a>
 <a href="https://instagram.com/siddhi.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhi.code" height="30" width="40" /></a>
 <a href="https://hashnode.com/@siddhigate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@siddhigate" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddhicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhicodes" height="30" width="40" /></a>
