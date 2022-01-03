@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/siddhigate" target="blank"><img src="https://img.shields.io/twitter/follow/siddhigate?logo=twitter&style=for-the-badge" alt="siddhigate" /></a> </p>
 
+![Coding Illustration](/Code Review.gif)
+<!--- <a href="https://storyset.com/work">Work illustrations by Storyset</a> -->
+
 - 🔭 I’m currently working on [Eye Care App](https://github.com/siddhigate/eye-care)
 
 - 🌱 I’m currently learning **web development**
