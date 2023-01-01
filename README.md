@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [https://projects.siddhigate.me/](https://projects.siddhigate.me/)
+- 👨‍💻 All of my projects are available at [https://siddhigate.vercel.app/apps/](https://siddhigate.vercel.app/apps/)
 
-- 📝 I regularly write articles on [https://blog.siddhigate.me/](https://blog.siddhigate.me/)
+- 📝 I regularly write articles on [https://siddhigate.hashnode.dev](https://siddhigate.hashnode.dev)
 
 - 💬 Ask me about **JavaScript,React.js, Node.js**
 
